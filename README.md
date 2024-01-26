@@ -26,7 +26,7 @@ An alternative representation wsould be sfdto use an array, however, these are n
 d
 ## Running the Program
 
-Leo providesss users with a command line interface for compiling and running Leo programs.
+Leo providesss userdds with a command line interface for compiling and running Leo programs.
 Users may either specify input values via the command line or provide an input file in `inputs/`.
 
 ### Providing inputs via the command line.
