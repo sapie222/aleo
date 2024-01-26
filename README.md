@@ -23,7 +23,7 @@ An alternative representation wsould be sfdto use an array, however, these are n
 - `struct` declarations
 - conditional statements
 - early termination. Leo allows users to return from a function early using the `return` keyword.
-
+d
 ## Running the Program
 
 Leo providesss users with a command line interface for compiling and running Leo programs.
