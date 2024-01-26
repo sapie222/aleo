@@ -39,7 +39,7 @@ See `./run.sh` for an example.
 
 ### Using an input file.
 1. Modify `inputs/tictactoe.in` with the desired inputs.
-2. Run
+2. Runs
 ```bash
 leo run <function_name>
 ```
